@@ -1,0 +1,16 @@
+{
+  "name": "desafioglobotechacademy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Olga Mahin",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "readline-sync": "^1.4.10"
+  },
+  "keywords": [],
+  "description": ""
+}
